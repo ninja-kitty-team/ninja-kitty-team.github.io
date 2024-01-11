@@ -18,5 +18,5 @@ main:
     url: /categories/#dfir
   - title: "Programming"
     url: /categories/#programming
-   - title: "CTF"
+  - title: "CTF"
     url: /categories/#ctf
