@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.5
 ribbon: Crimson
 excerpt: "We just test template"
-description: "/assets/images/ctfd-template/ninja-kitty-logo.jpg"
+description: "We just test template"
 categories:
   - ctf
 tags:
